@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Bulldog",
+      "description": "A friendly dog",
+      "image": "/images/dog1.jpg"  
+    },
+    {
+      "id": 2,
+      "name": "Golden Retriever",
+      "description": "A playful dog",
+      "image": "/images/dog2.jpg"  
+    },
+    {
+        "id": 3,
+        "name": "Golden Retriever",
+        "description": "A playful dog",
+        "image": "/images/dog3.jpg"  
+      }
+  ]
+  
